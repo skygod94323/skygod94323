@@ -11,3 +11,4 @@ Thanks for checking out my profile first.
 - CMS ↣ WordPress
 - DB ↣ MySQL, MongoDB
 - Python ↣ Django, flask, Scrapping, Scripting, Odoo, pandas, data analysis, trading script (pinescript)…
+- Blockchain ↣ Web3JS, Solidity, Rust, developing Smart Contract,NFT marketplace, pancake/uniswap Sniper bot(FrontRunner), DEX
